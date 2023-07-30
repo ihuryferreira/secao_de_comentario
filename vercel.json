@@ -1,8 +1,8 @@
 {
     "version": 2,
-    "build": [
+    "src": [
         {
-            "app": "index.js",
+            "app": "main.jsx",
             "use": "@vercel/node"
         }
     ],
